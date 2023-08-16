@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Tilt Prism', cursive;
+}
+html{
+    background-color: rgb(207, 255, 254);
+   
+}
+.invite{
+   width: 350px;
+   height: 5in;
+    border: 10px solid black;
+}
+.ranking{
+    width: 350px;
+    height: 5in;
+     border: 10px solid black;
+ }
+ 
+
+img{
+    height: 5in;
+     width: 350px
+}
+   h3{
+    font-family: cursive;
+   }
+h2{
+    font-family: 'Roboto Mono', monospace;
+}
